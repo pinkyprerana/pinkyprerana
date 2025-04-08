@@ -16,8 +16,6 @@ Fluent in turning wireframes and UI/UX designs into high-quality, responsive, an
 ---
 
 🧘🏻‍♀️ **Hobbies & Interests**  
-Beyond coding, I'm intrigued by the world of **mass media**, and I have the confidence to face the camera as a hobby.  
-I’m also passionate about:
 - 🧘‍♀️ Meditation & Yoga  
 - 🌍 Travelling  
 - 📸 Photography  
