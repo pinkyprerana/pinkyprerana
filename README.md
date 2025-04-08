@@ -15,13 +15,6 @@ Fluent in turning wireframes and UI/UX designs into high-quality, responsive, an
 
 ---
 
-🧘🏻‍♀️ **Hobbies & Interests**  
-- 🧘‍♀️ Meditation & Yoga  
-- 🌍 Travelling  
-- 📸 Photography  
-
----
-
 📫 **Let's Connect**  
 🔗 [LinkedIn](https://www.linkedin.com/in/pinky-prerana-80130a12a)  
 🐙 [GitHub](https://github.com/pinkyprerana)
